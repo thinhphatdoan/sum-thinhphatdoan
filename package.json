@@ -1,0 +1,27 @@
+{
+  "name": "sum-thinhphatdoan",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-thinhphatdoan": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinhphatdoan/sum-thinhphatdoan"
+  },
+  "homepage": "https://twitter.com/audley_man85819",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "thinhphatdoan",
+  "license": "MIT"
+}
